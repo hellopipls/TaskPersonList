@@ -1,0 +1,11 @@
+
+  	xcv      	xcv      	vcx	    3    	2001    	43  	4  	4  	4  	3  	4  	3.8
+
+  	dfg      	gfd      	dfg	    3    	1998    	32  	4  	5  	4  	4  	4  	4.2
+
+    der      	der      	der	    2    	2000    	3   	5  	4  	3  	5  	4  	 4.2
+
+  	mht      	mht      	mht	    2    	1999    	4   	4  	5  	4  	3  	3  	 3.8
+
+  	dsa      	das      	dsa	    2    	1998    	2   	3  	4  	3  	5  	5  	 4
+  	xcv      	xcv      	xcv	    3    	2001    	3  	3  	4  	3  	4  	5  	3.8

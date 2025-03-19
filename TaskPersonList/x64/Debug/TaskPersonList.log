@@ -1,0 +1,5 @@
+﻿  DataFileAnalis.cpp
+C:\Users\Svaeta\source\repos\TaskPersonList\TaskPersonList\DataFileAnalis.cpp(156,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  TaskPersonList.cpp
+  Создание кода...
+  TaskPersonList.vcxproj -> C:\Users\Svaeta\source\repos\TaskPersonList\x64\Debug\TaskPersonList.exe

@@ -1,0 +1,12 @@
+
+  	adam      	adam      	afs	         	1999         	4    	3    	5  	5  	5  	5  	5  	5
+
+  	hgd      	hgd      	vfr	         	2004         	1    	6    	3  	3  	3  	3  	3  	3
+
+  	jhg      	jhg      	jhg	         	1999         	4    	23    	5  	4  	5  	4  	5  	4.6
+
+  	kjh      	kgh      	mhu	         	2003         	4    	3    	4  	3  	4  	3  	4  	3.6
+
+  	r      	r      	r	         	2000         	1    	2    	3  	4  	5  	3  	2  	3.4
+
+  	rew       	dsa      	ref	         	2000         	1    	4    	3  	4  	3  	5  	4  	3.8

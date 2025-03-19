@@ -1,0 +1,9 @@
+
+  	rew      	fsa      	asd	    2    	2000    	4 	5  	4  	5  	3  	3  	4
+
+    dfg      	dfg      	dfg	    3    	2000    	2  	3  	2  	4  	5  	4  	 3.6
+
+  	fgh      	fgh      	fgh	    3    	1998    	3  	4  	3  	4  	5  	3  	 3.8
+
+  	fgc      	fgc      	fgc	    3    	2000    	2  	3  	3  	3  	3  	3  	 3
+  	fgh      	fgh      	fgh	    2    	2000    	2  	3  	3  	3  	4  	4  	3.4
